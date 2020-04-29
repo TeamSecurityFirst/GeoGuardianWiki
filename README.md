@@ -1,2 +1,2 @@
 # GeoGuardianWiki
-Public wiki avaliable for the GeoGuardian project!
+Public avaliable wiki for the GeoGuardian project!
